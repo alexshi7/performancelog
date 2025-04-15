@@ -2,7 +2,7 @@
 
 #torun
 
-```
+```mac
 $cd pythonscripts
 
 $python pythontest2.py
